@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "update": "./node_modules/leetcode-spider/bin/leetcode_spider -c ./leetcode-spider.json",
+    "update": "./leetcode-spider/bin/leetcode_spider -c ./leetcode-spider.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
